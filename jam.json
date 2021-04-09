@@ -1,0 +1,39 @@
+{
+  "jams": [
+    {
+      "id": "1",
+      "text": "cherry",
+      "amount": "300"
+    },
+    {
+      "id": "2",
+      "text": "melon",
+      "amount": "444"
+    },
+    {
+      "id": "3",
+      "text": "strawberry",
+      "amount": "370"
+    },
+    {
+      "text": "apple",
+      "amount": "450",
+      "id": "xEM4rD2"
+    },
+    {
+      "text": "pear",
+      "amount": "750",
+      "id": "9GEnoO8"
+    },
+    {
+      "text": "raspberries",
+      "amount": "900",
+      "id": "P2dF4aF"
+    },
+    {
+      "text": "currant",
+      "amount": "870",
+      "id": "taZKNCZ"
+    }
+  ]
+}
